@@ -1,0 +1,4 @@
+/Users/allannguginganga./CLionProjects/BroCode/cmake-build-debug/CMakeFiles/BroCode.dir
+/Users/allannguginganga./CLionProjects/BroCode/cmake-build-debug/CMakeFiles/trials.dir
+/Users/allannguginganga./CLionProjects/BroCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allannguginganga./CLionProjects/BroCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
